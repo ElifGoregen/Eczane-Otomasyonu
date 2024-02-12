@@ -1,0 +1,7 @@
+Rar dosyası ayıklanmadan çalıştırılırsa proje açılmaz.Öncesinde rar dosyasını ayıklayınız.
+
+1.Ara yüz seçiniz.
+2.Eğer Admin arayüzünü seçerseniz şifre ve kullanıcı adını doğru girmelisiniz.
+3.Admin olarak izin verilen bilgilere ulaşabilirsiniz.
+4.Eğer Firma sahibi olarak giriş yapmak isterseniz ilaç adını doğru girerek ciro hesaplama ve ilaç bilgilerini görebilrisiniz.Stok kontrolü yapabilirsiniz.
+5)Eğer Hasta girişi yaparsanız ilacın reçete süresini ve ilaç ile ilgili bilgilere ulaşabilirsiniz.

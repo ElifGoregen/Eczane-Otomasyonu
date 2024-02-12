@@ -1,0 +1,32 @@
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\bin\Debug\ElifGöregen_210757045.exe.config
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\bin\Debug\ElifGöregen_210757045.exe
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\bin\Debug\ElifGöregen_210757045.pdb
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.AssemblyReference.cache
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.AdminGirişPaneli.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.DepoKontrol.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.FirmaSahibiArayüzü.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.FormAraYüzSeç.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.HastaEkranı.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.Properties.Resources.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.İlacSorgula.resources
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.GenerateResource.cache
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.CoreCompileInputs.cache
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.exe
+C:\Users\elifg\OneDrive\Masaüstü\proje deneme\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.pdb
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\bin\Debug\ElifGöregen_210757045.exe.config
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\bin\Debug\ElifGöregen_210757045.exe
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\bin\Debug\ElifGöregen_210757045.pdb
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.AssemblyReference.cache
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.AdminGirişPaneli.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.DepoKontrol.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.FirmaSahibiArayüzü.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.FormAraYüzSeç.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.HastaEkranı.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.Properties.Resources.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.İlacSorgula.resources
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.GenerateResource.cache
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.csproj.CoreCompileInputs.cache
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.exe
+C:\Users\elifg\OneDrive\Masaüstü\ElifGöregen_210757045\ElifGöregen_210757045\ElifGöregen_210757045\obj\Debug\ElifGöregen_210757045.pdb
